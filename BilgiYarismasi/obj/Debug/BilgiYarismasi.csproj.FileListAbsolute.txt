@@ -1,0 +1,20 @@
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe.config
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.pdb
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csprojAssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.Form1.resources
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.Properties.Resources.resources
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.GenerateResource.cache
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.CoreCompileInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.exe
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.pdb
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi veri tabanna verileri girme\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe.config
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi veri tabanna verileri girme\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi veri tabanna verileri girme\BilgiYarismasi\bin\Debug\BilgiYarismasi.pdb
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi veri tabanna verileri girme\BilgiYarismasi\obj\Debug\BilgiYarismasi.csprojAssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi veri tabanna verileri girme\BilgiYarismasi\obj\Debug\BilgiYarismasi.Form1.resources
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi veri tabanna verileri girme\BilgiYarismasi\obj\Debug\BilgiYarismasi.Properties.Resources.resources
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi veri tabanna verileri girme\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.GenerateResource.cache
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi veri tabanna verileri girme\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.CoreCompileInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi veri tabanna verileri girme\BilgiYarismasi\obj\Debug\BilgiYarismasi.exe
+C:\Users\busra\OneDrive\Masaüstü\DERSLER\BMG PROJE\BilgiYarismasi veri tabanna verileri girme\BilgiYarismasi\obj\Debug\BilgiYarismasi.pdb
